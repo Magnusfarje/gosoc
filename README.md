@@ -15,7 +15,7 @@ Used to validate, and get user profile data from token.
 
 ### Install
 ```sh
-go get github.com/Magnusfarje/gosoc
+go get github.com/magnusfarje/gosoc
 ```
 ---
 
