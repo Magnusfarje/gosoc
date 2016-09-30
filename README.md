@@ -45,7 +45,7 @@ func main() {
 	Expire:2016-09-29 22:19:52 +0200 CEST
 }
 ```
-See [example](https://github.com/Magnusfarje/gosoc/blob/master/gosoc_example/main.go)
+See [example](https://github.com/magnusfarje/gosoc/blob/master/gosoc_example/main.go)
 
 ### Custom providers
 Implement the `Provider` interface to add providers. 
